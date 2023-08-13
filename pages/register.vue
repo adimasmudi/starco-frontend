@@ -89,7 +89,7 @@ export default {
     return {
       register: {
         name: 'Julia Keeva',
-        email: 'julia@bwa.com',
+        email: 'julia@starco.com',
         occupation: 'Product Designer',
         password: 'password',
       },
